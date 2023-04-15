@@ -1,0 +1,11 @@
+  .custom-comp{
+    padding: 10px;
+    display: block;
+    color: red;
+}
+.legend {
+    display: block;
+}
+button {
+    margin: 5px;
+}
